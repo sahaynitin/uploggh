@@ -1,4 +1,4 @@
-## Uploader X  Bot > 🛑 Don't Use This Branch Build in Progress 🥴
+
 ---
 
 Telegram RoBot to Upload Links.
